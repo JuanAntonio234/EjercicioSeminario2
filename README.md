@@ -45,3 +45,18 @@ node main.js
 
 
 
+# Proyecto de JavaScript
+
+## Recursos y Referencias
+
+1. **CommonJS vs. ESM en Node.js**: [Artículo en LenguajeJS](https://lenguajejs.com/nodejs/fundamentos/commonjs-vs-esm/)
+2. **Uso de `Map` en JavaScript**: [Documentación de MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+3. **Método `reduce` en arrays**:
+   - [Documentación de MDN (en español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+   - [Guía de 4Geeks Academy](https://4geeks.com/es/how-to/metodo-reduce-javascript)
+4. **Método `filter` en arrays**: [Documentación de MDN (en español)](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+
+## Uso de ChatGPT
+
+Para ampliar la información de estas páginas y entender mejor los conceptos, puedes utilizar ChatGPT como herramienta de apoyo en la comprensión de la documentación y los ejemplos presentados.
+
