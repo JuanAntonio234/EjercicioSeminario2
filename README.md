@@ -58,5 +58,4 @@ node main.js
 
 ## Uso de ChatGPT
 
-Para ampliar la información de estas páginas y entender mejor los conceptos, puedes utilizar ChatGPT como herramienta de apoyo en la comprensión de la documentación y los ejemplos presentados.
-
+Para ampliar la información de estas páginas y entender mejor los conceptos, también usado para crear el readme
