@@ -27,22 +27,8 @@ function getComments(postId) {
     });
 }
 
-async function fetchOrderDetails() {
-  try {
-    const user = await getUser(1);
-    const posts = await getPosts(user.id);
-    const comments = await getComments(posts[0].id);
-
-    console.log("Comentarios del primer post:", comments);
-    console.log("Fin");
-  } catch (error) {
-    console.error("Error:", error);
-  }
+function getCommentLengths(comments){
+  return comments.map(comment => comment.body.length)
 }
 
-console.log("Inicio");
-
-fetchOrderDetails();
-
-
-
+export{getUser,getPosts,getComments,getCommentLengths};
